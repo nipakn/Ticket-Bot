@@ -4,6 +4,7 @@ Discord ticket-bot working with commands
 # Dependencies
 
 • Node.js
+
 • Discord.js V14
 
 # How to use?

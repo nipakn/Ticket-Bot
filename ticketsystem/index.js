@@ -15,7 +15,7 @@ client.on("ready", () => {
 
 // bot token
 
-const token = 'MTA3Mjg3NzI3NzU5Mjk2MTAzNg.GMzoPg.KY8-9lKOx0wVqVzy68CX9fIOyiX770aCxEF6ug' // bot token here
+const token = '' // bot token here
 
 // channel specifying
 
